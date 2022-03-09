@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          HI There !
+          I was changed on the dev branch
         </a>
       </header>
     </div>
